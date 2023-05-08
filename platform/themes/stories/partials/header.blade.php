@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5, user-scalable=1" name="viewport"/>
 
-        {!! BaseHelper::googleFonts('https://fonts.googleapis.com/css2?family=' . urlencode(theme_option('primary_font', 'Noto Sans JP')) . ':wght@400;500;700;900&display=swap', false) !!}
+        {{-- {!! BaseHelper::googleFonts('https://fonts.googleapis.com/css2?family=' . urlencode(theme_option('primary_font', 'Noto Sans JP')) . ':wght@400;500;700;900&display=swap', false) !!} --}}
 
         <style>
             :root {
