@@ -27,7 +27,7 @@
         "botble/widget": "*@dev",
         "doctrine/dbal": "^3.2",
         "guzzlehttp/guzzle": "^7.2",
-        "laravel/framework": "^9.21",
+        "laravel/framework": "^10.0",
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7",
         "league/flysystem-aws-s3-v3": "^3.0",
@@ -44,7 +44,7 @@
         "mockery/mockery": "^1.4.4",
         "nunomaduro/collision": "^6.1",
         "phpunit/phpunit": "^9.5.10",
-        "spatie/laravel-ignition": "^1.0"
+        "spatie/laravel-ignition": "^2.1"
     },
     "autoload": {
         "psr-4": {
